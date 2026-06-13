@@ -78,7 +78,7 @@ full_html_page = """
     margin: 10px auto;
     padding: 30px;
     border: 2px solid #000000 !important;
-    background-color: white;
+    background-color: light yellow;
     color: black;
     font-family: 'Arial', sans-serif;
     box-sizing: border-box;
@@ -95,11 +95,11 @@ full_html_page = """
 .money-receipt-title {
     text-align: center;
     font-size: 22px;
-    font-weight: bold;
+    font-weight: hig bold;
     letter-spacing: 3px;
     margin: 15px auto;
-    color: #000;
-    border: 1.5px solid #000;
+    color: #005;
+    border: 1.8px solid #000;
     width: 280px;
     padding: 6px 0;
     text-transform: uppercase;
@@ -110,7 +110,7 @@ full_html_page = """
 .info-table { 
     width: 100%; 
     border-collapse: collapse; 
-    margin-bottom: 25px; 
+    margin-bottom: 20px; 
 }
 .info-table td { 
     padding: 8px 12px; 
@@ -164,7 +164,7 @@ full_html_page = """
 }
 .due-row {
     font-size: 17px; 
-    font-weight: bold; 
+    font-weight: hig bold; 
     border-top: 1px dashed #1a365d;
     padding-top: 6px !important;
     margin-top: 4px;
@@ -182,10 +182,10 @@ full_html_page = """
 }
 .signature-line {
     border-top: 1.5px solid #000;
-    font-size: 14px;
-    font-weight: bold;
+    font-size: 16px;
+    font-weight: hig bold;
     padding-top: 5px;
-    color: #000;
+    color: blak;
 }
 
 @media print {
